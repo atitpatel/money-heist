@@ -4,6 +4,10 @@
     "description": "A color theme on popular Netflix show Money Heist",
     "version": "0.0.1",
     "publisher": "Atit",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/atitpatel/money-heist.git"
+      },
     "engines": {
         "vscode": "^1.44.0"
     },

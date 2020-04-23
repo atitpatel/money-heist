@@ -7,11 +7,7 @@ color theme on a popular show Money Heist.
 
 Money-Heist theme
 
-![Sample Theme](./screenshot-1.png)
-
-
-
-![Sample Theme](./screenshot-2.png)
+![Sample Theme](https://httpsimage.com/v2/a375b0df-3041-40c3-9b46-f3c8b1fbda7e.png)
 
 
 ## Running the sample
