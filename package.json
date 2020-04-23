@@ -1,0 +1,22 @@
+{
+    "name": "money-heist",
+    "displayName": "Money Heist",
+    "description": "A color theme on popular Netflix show Money Heist",
+    "version": "0.0.1",
+    "publisher": "Atit",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Money Heist Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Money Heist Theme-color-theme.json"
+            }
+        ]
+    }
+}
